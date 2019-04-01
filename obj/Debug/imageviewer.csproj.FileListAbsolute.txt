@@ -1,0 +1,7 @@
+D:\imageviewer\bin\Debug\imageviewer.exe
+D:\imageviewer\bin\Debug\imageviewer.pdb
+D:\imageviewer\obj\Debug\imageviewer.csprojResolveAssemblyReference.cache
+D:\imageviewer\obj\Debug\imageviewer.Form1.resources
+D:\imageviewer\obj\Debug\imageviewer.csproj.GenerateResource.Cache
+D:\imageviewer\obj\Debug\imageviewer.exe
+D:\imageviewer\obj\Debug\imageviewer.pdb

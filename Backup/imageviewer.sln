@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imageviewer", "imageviewer.csproj", "{469765C0-1124-416E-8C20-C25603B57094}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{469765C0-1124-416E-8C20-C25603B57094}.Debug.ActiveCfg = Debug|.NET
+		{469765C0-1124-416E-8C20-C25603B57094}.Debug.Build.0 = Debug|.NET
+		{469765C0-1124-416E-8C20-C25603B57094}.Release.ActiveCfg = Release|.NET
+		{469765C0-1124-416E-8C20-C25603B57094}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
